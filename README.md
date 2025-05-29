@@ -108,8 +108,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 👨‍💻 Author
 
-**Hrutav Modha**
-(_modhahrutav@gmail.com_)
+**Muhammad Jawad**
+(_muhammadjawad91@gmail.com_)
 
 ## 🤝 Contributions
 
